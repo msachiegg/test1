@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg6" n="/Literatur/M/Wieland, Christoph Martin/Gedichte/Gedichte/Jugendgedichte/Ode">
+                  <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Ode</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-A699-1</idno><idno type="TextGridUri">textgrid:x8h9.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christoph Martin Wieland: Werke. Herausgegeben von Fritz Martini und Hans Werner Seiffert, München: Hanser, 1964 ff.</title>
+                  <author key="pnd:118632477">Wieland, Christoph Martin</author>
+               </titleStmt>
+               <extent>9-</extent>
+               <publicationStmt>
+                  <date when="1964"/>
+                  <pubPlace>München</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1733" notAfter="1813"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+                  <text>
+                     <front>
+                        <div type="front">
+                           <head type="h4" xml:id="tg5.2.1">
+                              <pb type="start" n="9" xml:id="tg5.2.1.1"/>
+Jugendgedichte</head>
+
+                        </div>
+                     </front>
+                     <body>
+                           
+                              
+                           
+                           
+                           
+                           <div type="text" xml:id="tg6.3">
+                              <div type="h4">
+                                 <head type="h4" xml:id="tg6.3.1">Ode</head>
+
+                                 <lg>
+                                    <l xml:id="tg6.3.2">Tugend! o wie reizend schön bist du!</l>
+                                    <l xml:id="tg6.3.3">Himmelskind! ach kennten dich die Seelen</l>
+                                    <l xml:id="tg6.3.4">Die vor dich ein glänzend Nichts sich wählen</l>
+                                    <l xml:id="tg6.3.5">Und erkaufen Schmerz um Seelen-Ruh!</l>
+                                    <l xml:id="tg6.3.6">O wie würden sie die Stimme hassen,</l>
+                                    <l xml:id="tg6.3.7">Die sie jetzt zu süßem Elend ruft;</l>
+                                    <l xml:id="tg6.3.8">O, wie flöhen sie aus Circens Zaubergruft,</l>
+                                    <l xml:id="tg6.3.9">Zu dir auf die Königliche Straßen!</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg6.3.10"/>
+                                    <l xml:id="tg6.3.11">Ach daß doch ein schimmernd Nichts uns blendt!</l>
+                                    <l xml:id="tg6.3.12">Daß der Weise selbst, der Freund der Wahrheit,</l>
+                                    <l xml:id="tg6.3.13">Oft, mit einem Geist voll heitrer Klarheit,</l>
+                                    <l xml:id="tg6.3.14">Wie bezaubert sich zum Scheingut wendt!</l>
+                                    <l xml:id="tg6.3.15">O wie glühen jetzt die ernsten Wangen</l>
+                                    <l xml:id="tg6.3.16">Da zu spät ihn die Erfahrung lehrt</l>
+                                    <l xml:id="tg6.3.17">Daß Sein Arm, indem er dich begehrt,</l>
+                                    <l xml:id="tg6.3.18">Wie Ixion, einen Dunst umfangen!</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg6.3.19"/>
+                                    <l xml:id="tg6.3.20">Englische Sophie, mein Herz, mein Licht</l>
+                                    <l xml:id="tg6.3.21">Du bist selbst, ja Du bist selbst die Tugend,</l>
+                                    <l xml:id="tg6.3.22">Aus der Anmut aufgeblühter Jugend,</l>
+                                    <l xml:id="tg6.3.23">Reizt sie selbst in Dir ein klug Gesicht.</l>
+                                    <l xml:id="tg6.3.24">O wie strahlt aus Deinen schönen Blicken,</l>
+                                    <l xml:id="tg6.3.25">Wo mit weisem Ernst sich Anmut paart,</l>
+                                    <l xml:id="tg6.3.26">Eine Seele von Seraphscher Art,</l>
+                                    <l xml:id="tg6.3.27">Fähig mehr als Weise zu entzücken!</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg6.3.28"/>
+                                    <l xml:id="tg6.3.29">Doch Dein Mund, Dein liebenswerter Mund,</l>
+                                    <l xml:id="tg6.3.30">Nicht nur schön, wenn ihn die Küsse schließen,</l>
+                                    <l xml:id="tg6.3.31">Auch wenn kluge Worte von Ihm fließen,</l>
+                                    <l xml:id="tg6.3.32">Macht noch mehr als Deine Augen kund.</l>
+                                    <l xml:id="tg6.3.33">Und Dein Brief, in dem Dein Herz sich malet</l>
+                                    <l xml:id="tg6.3.34">O wie sanft erquickt er meine Brust!</l>
+                                    <pb n="9" xml:id="tg6.3.35"/>
+                                    <l xml:id="tg6.3.36">O wie schwimmt Sie in ätherscher Lust!</l>
+                                    <l xml:id="tg6.3.37">Die mir reichlich Schmerz und Leid bezahlet.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg6.3.38"/>
+                                    <l xml:id="tg6.3.39">Dich, Sophie, Dich gab der Himmel mir</l>
+                                    <l xml:id="tg6.3.40">Mich der Tugend liebreich zuzuführen;</l>
+                                    <l xml:id="tg6.3.41">Ja, ich war bereit mich zu verlieren,</l>
+                                    <l xml:id="tg6.3.42">Gott! Du sähest es, und gabst sie mir!</l>
+                                    <l xml:id="tg6.3.43">Jetzo dring ich <hi rend="italic" xml:id="tg6.3.43.1">sicher</hi> durch verwachsne Hecken,</l>
+                                    <l xml:id="tg6.3.44">Denn ihr redlich Herz verläßt mich nie;</l>
+                                    <l xml:id="tg6.3.45">Gott und Weisheit Tugend und Sophie</l>
+                                    <l xml:id="tg6.3.46">Sind bei mir, welch Unfall kann mich schrecken!</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg6.3.47"/>
+                                    <l xml:id="tg6.3.48">O Mein Engel, wenn wird einst ein Tag</l>
+                                    <l xml:id="tg6.3.49">Mich, Dir, <hi rend="italic" xml:id="tg6.3.49.1">liebstes Herz</hi> auf ewig anvertrauen</l>
+                                    <l xml:id="tg6.3.50">Und mein Glück auf solche Felsen bauen,</l>
+                                    <l xml:id="tg6.3.51">Die kein Orkan nicht zertrümmern mag?</l>
+                                    <l xml:id="tg6.3.52">Denn bin ich beglückt der Not entgangen,</l>
+                                    <l xml:id="tg6.3.53">Die des Weisen Auge oft benetzt;</l>
+                                    <l xml:id="tg6.3.54">Denn wird nie ein Dunst von mir geschätzt,</l>
+                                    <l xml:id="tg6.3.55">Denn die Tugend selbst hält mich in Dir umfangen!</l>
+                                 </lg>
+                                 <lb xml:id="tg6.3.56"/>
+                              </div>
+                           </div>
+                        </body>
+                  </text>
+               </TEI>
