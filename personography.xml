@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="schemas/exercise.rnc" type="compact"?>
+<?oxygen SCHSchema="schemas/exercise.isosch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tudor Dynasty Personography</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Northeastern University Women Writers Project</publisher>
+        <availability>
+          <ab>
+            <!-- copyright or copyleft information here -->
+          </ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="HENR7" role="king">
+          <persName>Henry VII of England</persName>
+          <floruit from="1485" to="1509"/>
+          <birth when="1457">
+            <placeName>Pembroke Castle, Wales</placeName>
+          </birth>
+          <death when="1509">
+            <placeName>Richmond Palace, England</placeName>
+            <note type="cause">tuberculosis</note>
+          </death>
+          <faith>catholic</faith>
+        </person>
+        <person xml:id="HENR8" role="king">
+          <persName>Henry VIII of England</persName>
+          <floruit from="1509" to="1547"/>
+          <birth when="1547">
+            <placeName>Greenwich Palace, Greenwich∏</placeName>
+          </birth>
+          <death when="1509">
+            <placeName>Palace of Whitehall, London</placeName>
+            <note type="cause">unknown</note>
+            <note type="cause" cert="medium">obesity</note>
+            <note type="cause" cert="low">Type II Diabetes</note>
+          </death>
+          <faith>protestant</faith>
+        </person>
+        <person xml:id="EDWA6" role="king">
+          <persName>Edward VI of England</persName>
+          <floruit from="1547" to="1553"/>
+          <faith>protestant</faith>
+          <birth when="1553">
+            <placeName>Hampton Court Palace, Middlesex</placeName>
+          </birth>
+          <death when="1553">
+            <placeName>Greenwich Palace</placeName>
+            <note type="cause">unknown</note>
+            <note type="cause" cert="medium">tuberculosis</note>
+            <note type="cause" cert="low">poisoning</note>
+            <note type="cause" cert="low">pneumonia</note>
+          </death>
+        </person>
+        <person xml:id="JANE1" role="queen">
+          <persName>Lady Jane Grey</persName>
+          <floruit from="1553" to="1553"/>
+          <faith>protestant</faith>
+          <note>uncrowned</note>
+          <birth notBefore="1536" notAfter="1537"/>
+          <death when="1554">
+            <placeName>Tower of London</placeName>
+            <note type="cause">beheading</note>
+          </death>
+        </person>
+        <person xml:id="MARY1" role="queen">
+          <persName>Mary I of England</persName>
+          <floruit from="1553" to="1558"/>
+          <faith>catholic</faith>
+          <birth when="1516">
+            <placeName>Palace of Placentia, Greenwich</placeName>
+          </birth>
+          <death when="1558">
+            <placeName>St James' Palace</placeName>
+            <note type="cause" cert="high">influenza</note>
+          </death>
+        </person>
+        <person xml:id="ELIZ1" role="queen">
+          <persName>Elizabeth I of England</persName>
+          <floruit from="1558" to="1603"/>
+          <faith>protestant</faith>
+          <birth when="1533">
+            <placeName>Greenwich</placeName>
+          </birth>
+          <death when="1603">
+            <placeName>Richmond</placeName>
+            <note type="cause">unknown</note>
+            <note type="cause" cert="low">blood poisoning</note>
+            <note type="cause" cert="low">cancer</note>
+          </death>
+        </person>
+      </listPerson>
+    </body>
+    <back/>
+  </text>
+</TEI>
